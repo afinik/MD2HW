@@ -1,0 +1,4 @@
+rootProject.name='MD2HW3'
+include ':app'
+include ':myapplication'
+include ':test'
